@@ -5,3 +5,7 @@ document.getElementById('case-plus').addEventListener('click', function() {
     console.log(caseNumber);
 
 })
+
+document.getElementById('case-minus').addEventListener('click', function() {
+    const caseInput = document.getElementById('case-number')
+})
